@@ -1,0 +1,9 @@
+.enemy {
+	border-style:solid; border-width:3px;
+    -webkit-transition: 300ms;
+}
+
+.enemy:hover {
+    box-shadow: 0px 0px 5px 0px #000;
+	background-color: #00F;
+}
